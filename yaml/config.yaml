@@ -1,0 +1,67 @@
+name_file: 'https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv'
+
+a_value: 23.45
+
+a_list:
+ - Monday
+ - Tuesday
+ - Wednesday
+ - Thursday
+ - Friday
+ - Saturday
+ - Sunday
+ 
+a_dictionary:
+  Mon: Monday
+  Tue: Tuesday
+  Wed: Wednesday
+  Thu: Thursday
+  Fri: Friday
+  Sat: Saturday
+  Sun: Sunday
+  
+customers:
+  customer_a:
+    time: Dinner
+    day: 
+      - Thursday
+      - Friday
+  customer_b:
+    time: Lunch
+    day: 
+      - Thursday
+      - Friday  
+  customer_c:
+    time: Dinner
+    day: 
+      - Saturday
+      - Sunday
+  customer_d:
+    time: Lunch
+    day: 
+      - Saturday
+      - Sunday      
+      
+rename_day:
+ Thur: Thursday
+ Fri: Friday
+ Sat: Saturday
+ Sun: Sunday
+ 
+set_table_styles:
+  hover:
+    selector: 'tr:hover'
+    props: [['background-color', 'black'], ['color', 'white']]
+  nth-of-type(odd):
+    selector: 'tr:nth-of-type(odd)'
+    props: [['background', '#bbb']]
+  nth-of-type(even):
+    selector: 'tr:nth-of-type(even)'
+    props: [['background', 'white']]
+  th:
+    selector: 'th'
+    props: [['background', '#606060'], ['color', 'white'] , ['font-family', 'verdana'], ['font-size', '1.1em']]
+  td:
+    selector: 'td'
+    props: [['font-family', 'verdana'], ['font-size', '0.9em']]
+    

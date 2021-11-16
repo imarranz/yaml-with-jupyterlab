@@ -1,6 +1,8 @@
 # Using YAML with Jupyter
 
-![](./figures/yaml-with-jupyterlab-logo.png)
+![]('/figures/yaml-with-jupyterlab-logo.png')
+
+I have recently started working with YAML to set up my [Data Science Projects](https://github.com/imarranz/data-science-workflow-management) and I think it is a really useful tool. Here are examples of how to use YAML with our jupyter notebooks and links to other sources.
 
 ## Sources
 

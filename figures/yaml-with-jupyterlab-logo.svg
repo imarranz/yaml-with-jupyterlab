@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="yaml-with-jupyterlab-logo.svg"
-   inkscape:export-filename="C:\Users\Ibon.DOMINIO\Desktop\yaml-with-jupyterlab-logo.png"
+   inkscape:export-filename="C:\Users\Ibon.DOMINIO\Desktop\to_github\yaml-with-jupyterlab\figures\yaml-with-jupyterlab-logo.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <defs
@@ -36,28 +36,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient8161">
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0"
-         id="stop8163" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop8165" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8161"
-       id="linearGradient8167"
-       x1="128.55557"
-       y1="1032.1266"
-       x2="135.69754"
-       y2="772.63477"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3278709,0,0,1.3278709,-89.026879,-375.8958)" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient8179"
        id="linearGradient8185"
        x1="747.52679"
@@ -74,16 +52,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59404297"
-     inkscape:cx="879.59017"
+     inkscape:zoom="2.1093166"
+     inkscape:cx="387.70027"
      inkscape:cy="85.358352"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -94,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,23 +115,6 @@
        y="732.36218" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:33.19677353px;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient8167);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="320.72131"
-       y="950.37811"
-       id="text8143"
-       sodipodi:linespacing="150%"><tspan
-         sodipodi:role="line"
-         id="tspan8145"
-         x="320.72131"
-         y="950.37811"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient8167);fill-opacity:1">CONFIGURATION</tspan><tspan
-         sodipodi:role="line"
-         x="320.72131"
-         y="1001.9363"
-         id="tspan8147"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:url(#linearGradient8167);fill-opacity:1">YAML + PYTHON</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="251.45706"
        y="1043.7323"
@@ -164,5 +125,22 @@
          x="251.45706"
          y="1043.7323"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808080">github/imarranz/yaml-with-jupyterlab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.19677353px;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="320.72131"
+       y="950.37811"
+       id="text8143"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         id="tspan8145"
+         x="320.72131"
+         y="950.37811"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;">CONFIGURATION</tspan><tspan
+         sodipodi:role="line"
+         x="320.72131"
+         y="1001.9363"
+         id="tspan8147"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;">YAML + PYTHON</tspan></text>
   </g>
 </svg>

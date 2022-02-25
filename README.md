@@ -10,6 +10,7 @@ I have recently started working with YAML to set up my [Data Science Projects](h
 [writing YAML files](https://towardsdatascience.com/writing-yaml-files-with-python-a6a7fc6ed6c3)  
 [YAML tutorial](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)  
 [Using YAML in python for structured data](https://kitchingroup.cheme.cmu.edu/blog/2014/02/03/Using-YAML-in-python-for-structured-data/)  
+[YAML with Python](https://blog.devgenius.io/yaml-with-python-d6787a9bd8ab)    
 
 
 ```python
